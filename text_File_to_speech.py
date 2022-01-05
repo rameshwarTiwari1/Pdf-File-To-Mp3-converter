@@ -2,7 +2,7 @@ import os
 
 from gtts import gTTS
 
-fh = open("Goals By Brain Tracy.pdf", "r")
+fh = open("Enter File name", "r")
  
 myText= fh.read().replace("\n", " ")
 
